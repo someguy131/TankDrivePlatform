@@ -12,6 +12,7 @@ The requirements to reach this goal are outlined as follows:
     -Trailers
     -Attachments
     -Buckets
+    -Standardized Bolt Mounting Pattern
 
   -Be able to traverse basic off road terrain
 
@@ -28,4 +29,3 @@ The requirements to reach this goal are outlined as follows:
 
     -Power distribution board with extra slots
     -Raspberry Pi head computer controlling an Arduino MEGA 2560 for subsystem controls
-    
