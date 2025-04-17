@@ -32,11 +32,19 @@ The requirements to reach this goal are outlined as follows:
 
 # Design
 
+
+
 # Electrical
 
 To meet the requirement of being weather resistant, all fragile and important electronics are housed within a harbor freight ammo box. These boxes are easy to modify, easy to access the internals, and have a built in gasket on the lid. Holes were drilled for wire routing, cooling fans, and RSL.
 
 ![Electrical Box Diagram](https://github.com/user-attachments/assets/73345639-4510-4ce1-9794-49588136e640)
+
+With the Raspberry Pi 3B acting as the head computer for the robot, all actuators and sensors are controlled via serial to a microcontroller (in this case an Arduino Mega 2560). This setup was chosen to provide easier future expandability, and plenty of options for software. The Pi has reasonable computation power, though not a ton is needed. More importantly, the Pi provides many options for communication. USB allows easy serial communication to peripheral devices, while having an ethernet port makes it easy to program, and also gives the future option of fully remote control using a router. 
+
+Two 40x20mm fans are used in push-pull configuration to cool the electronics box. The RPi and ESCs already get fairly hot while running normally, and on a hot summer day, thermal issues are likely to occur. 
+
+-add cfd stuff in here
 
 # Software
 
