@@ -36,9 +36,7 @@ The requirements to reach this goal are outlined as follows:
 
 To meet the requirement of being weather resistant, all fragile and important electronics are housed within a harbor freight ammo box. These boxes are easy to modify, easy to access the internals, and have a built in gasket on the lid. Holes were drilled for wire routing, cooling fans, and RSL.
 
-![image](https://github.com/user-attachments/assets/2b9ea83b-08ce-4d65-b5a8-57489ec5edf2)
-
-
+![Electrical Box Diagram](https://github.com/user-attachments/assets/73345639-4510-4ce1-9794-49588136e640)
 
 # Software
 
