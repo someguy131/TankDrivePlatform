@@ -23,9 +23,22 @@ The requirements to reach this goal are outlined as follows:
 
     -Skid Plate
     -Enclosed Gearboxes
-    -Water resistant electronics
+    -Weather resistant electronics
 
   -Expandable electrical system
 
     -Power distribution board with extra slots
     -Raspberry Pi head computer controlling an Arduino MEGA 2560 for subsystem controls
+
+# Design
+
+# Electrical
+
+To meet the requirement of being weather resistant, all fragile and important electronics are housed within a harbor freight ammo box. These boxes are easy to modify, easy to access the internals, and have a built in gasket on the lid. Holes were drilled for wire routing, cooling fans, and RSL.
+
+![image](https://github.com/user-attachments/assets/2b9ea83b-08ce-4d65-b5a8-57489ec5edf2)
+
+
+
+# Software
+
